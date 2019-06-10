@@ -7,9 +7,9 @@ Find specific installation instructions, recommended accessories, and more for y
     <router-link v-bind:to="page.path">
       {{ page.title }}
     </router-link>
-  </li>
-</ul>
+  </li>/ul>
 
 ::: tip Note
 Recommended accessories may contain affiliate links. Please use these links when purchasing accessories if you would like to support Maru.
 :::
+<get.all>
